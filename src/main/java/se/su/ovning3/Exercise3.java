@@ -1,11 +1,10 @@
 package se.su.ovning3;
 
-import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import java.util.Map;
-
+// HEJ PÅ DIG
 public class Exercise3 {
 
 	private final List<Recording> recordings = new ArrayList<>();
