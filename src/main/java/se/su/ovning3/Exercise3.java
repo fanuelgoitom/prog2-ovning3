@@ -5,6 +5,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 // HEJ PÅ DIG
+// HEJ DÅ
 public class Exercise3 {
 
 	private final List<Recording> recordings = new ArrayList<>();
